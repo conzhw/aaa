@@ -1,0 +1,18 @@
+git地址 ：http://172.16.3.80:9090/operation-cm/compliance-ui.git
+
+项目预览地址： http://172.16.5.28:8081/ 用户名密码admin/admin2020
+
+GIT:1060071434@qq.com/4ion0id7h9
+
+VPN:qd_zhaohw/9GcaybYy
+
+
+http://172.16.5.28:7000/doc.html#/home
+
+http://172.16.5.27:7000/doc.html#/home
+
+任务的restful 服务名：composite-task
+
+赵宏伟：应用管理地址探测调试、报告管理页面开发及调试
+
+刘沣毅：资产暴露面检测调试、任务调度白名单
